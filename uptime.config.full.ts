@@ -37,7 +37,7 @@ const workerConfig: WorkerConfig = {
         'User-Agent': 'Uptimeflare',
       },
     },
-    // 2. FileCodeBox 监控项 (新增)
+    // 2. FileCodeBox 监控项
     {
       id: 'ignorant_filecodebox',
       name: 'FileCodeBox',
@@ -50,7 +50,7 @@ const workerConfig: WorkerConfig = {
         'User-Agent': 'Uptimeflare',
       },
     },
-    // 3. EasyImage 监控项 (新增)
+    // 3. EasyImage 监控项
     {
       id: 'ignorant_easyimage',
       name: 'EasyImage',
